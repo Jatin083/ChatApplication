@@ -26,9 +26,9 @@ Welcome to ChatApplication, a simple web-based chat application where users can 
 
 2. Navigate to the project directory:
 
-   cd chatapplication
+   cd chatapplication and cd to both frontend and backend in different terminal
 
-3. Install dependencies:
+3. Install dependencies for both :
 
    npm install
 
