@@ -1,4 +1,4 @@
-# ChatApplication Web App
+# Chat_Application 
 
 Welcome to ChatApplication, a simple web-based chat application where users can communicate in real-time.
 
